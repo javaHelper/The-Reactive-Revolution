@@ -3,6 +3,7 @@
 Join Spring developer advocate Josh Long for a look at what Spring Boot is, why it's turning heads, 
 why you should consider it for your next application (REST, micro services, web, batch, big data, integration, whatever!) and how to get started.
 
+```sql
 id|name   |
 --+-------+
  1|Neha   |
@@ -12,6 +13,7 @@ id|name   |
  5|Anosh  |
  6|Sam    |
  7|Alex   |
+ ```
  
  Response below when client App runs
  
