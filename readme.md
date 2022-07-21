@@ -4,6 +4,8 @@ Join Spring developer advocate Josh Long for a look at what Spring Boot is, why 
 why you should consider it for your next application (REST, micro services, web, batch, big data, integration, whatever!) and how to get started.
 
 ```sql
+select * from public.reservation;
+
 id|name   |
 --+-------+
  1|Neha   |
